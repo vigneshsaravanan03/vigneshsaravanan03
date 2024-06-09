@@ -1,10 +1,11 @@
 Hi 👋 My name is Vignesh
 ========================
 
-Python Developer
+Software Developer
 ----------------
 
-Results-driven student with a history of effective project management and team leadership. Adept at fostering efficient processes through strong communication and strategic thinking. Eager to apply my skills in software industry to drive impactful outcomes.
+I am a results-driven professional with a history of effective project management and team leadership. Adept at fostering efficient processes through strong communication and strategic thinking, I am eager to apply my skills in the software industry to drive impactful outcomes.
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saravananvignesh749@gmail.com](mailto:saravananvignesh749@gmail.com)
